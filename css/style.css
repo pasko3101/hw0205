@@ -1,0 +1,17 @@
+body * {
+    display: inline-block;
+    background: rgb(218, 237, 248);
+    box-sizing: border-box;
+}
+.alpina {
+    width: 300px;
+    height: 500px;
+    padding: 10px;
+    border: 3px solid rgba(0, 0, 52);
+    margin: 5px;
+    color: rgb(8, 3, 90);
+}
+#many {
+    font-size: large;
+    color: black;
+}
